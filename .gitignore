@@ -17,6 +17,7 @@
 *.jar
 *.log
 *.class
+log/
 sa/
 out/
 target/
