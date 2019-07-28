@@ -19,6 +19,7 @@
 *.class
 log/
 sa/
+log/
 out/
 target/
 gen/
